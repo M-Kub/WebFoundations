@@ -1,4 +1,4 @@
-# Tested with Python 3.7+ (Mac OS X)
+# Tested with Python 3.7+
 import io
 import socket
 import sys
